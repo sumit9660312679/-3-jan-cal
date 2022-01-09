@@ -1,0 +1,32 @@
+body{
+  border: 20px;
+  background-color: lightgreen;
+  text-align: center;
+  margin-top: 30px;
+  width: auto;
+}
+ div {
+   border: visible;
+   border-width: thick;
+   border-style: solid;
+   margin-left: 150px;
+   margin-right: 50px;
+
+
+
+
+
+}
+input{
+width: 150px;
+border-radius: 20px;
+background-color: lightblue;
+}
+button{
+  width: 30px;
+  border: 10px;
+  border: solid;
+  margin-bottom: 10px;
+
+
+}
